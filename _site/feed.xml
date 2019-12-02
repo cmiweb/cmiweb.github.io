@@ -5,13 +5,18 @@
     <description>Claudiu Ionita's blog about tech.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Nov 2019 18:00:04 -0500</pubDate>
-    <lastBuildDate>Sun, 24 Nov 2019 18:00:04 -0500</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2019 00:05:40 -0500</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:05:40 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>uovoc - baby clothes website</title>
-        <description>&lt;h1 id=&quot;all-clothing-designs-are-hand-drawn--&quot;&gt;All clothing designs are hand drawn :-)&lt;/h1&gt;
+        <title>uovoc.com - kids clothes e-commerce store</title>
+        <description>&lt;h1 id=&quot;all-clothing-designs-are-hand-drawn&quot;&gt;All clothing designs are hand drawn&lt;/h1&gt;
+&lt;p&gt;This is a project that I am working on constantly. I enjoy creating beautifully made interfaces and providing a smooth and easy user experience.&lt;/p&gt;
+
+&lt;p&gt;uovoc is a website created and maintained by me, Claudiu Ionita.&lt;/p&gt;
+
+&lt;p&gt;With the help of my girlfriend we founded uovoc, a baby clothes e-commerce store where we put our creativity into unique designs for children.&lt;/p&gt;
 &lt;h1 id=&quot;uovoc&quot;&gt;&lt;a href=&quot;https://uovoc.com/&quot;&gt;uovoc&lt;/a&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
   &lt;h4 id=&quot;tools-used&quot;&gt;Tools Used:&lt;/h4&gt;
