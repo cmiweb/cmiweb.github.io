@@ -10,7 +10,7 @@ https://ionita.io/shortnme/src/
 > #### Features:
 >
 
-> - URL shortning made simple: mnmlurl uses jsonstore.io to store data on an endpoint JSON file using HTTPS requests. It works on any url
+> - URL shortning made simple: shortnme uses jsonstore.io to store data on an endpoint JSON file using HTTPS requests. It works on any url
 
 > - No server side logging: Your privacy is important for us. We never log, collect or prompt to sell your data to anyone.
 
