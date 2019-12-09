@@ -12,5 +12,3 @@ I am also passionate about art, culture, rockets and craft wine.
 Email: [ionita.cmi@gmail.com](mailto:ionita.cmi@gmail.com)
 
 Github: [cmiweb](https://github.com/cmiweb)
-
-Twitter: [ionitaio](https://twitter.com/ionitaio)
